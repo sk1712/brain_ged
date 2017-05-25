@@ -8,7 +8,7 @@ This code provides a Python implementation of constrained graph edit distance us
 
 Please cite the corresponding paper when using the code:
 
-Ktena, S.I., Arslan, S., Parisot, S., Rueckert, D.: Exploring Heritability of Functional Brain Networks with Inexact Graph Matching. In: *IEEE International Symposium on Biomedical Imaging (ISBI)* (2017). [pdf](https://arxiv.org/pdf/1703.10062.pdf)
+Ktena, S.I., Arslan, S., Parisot, S., Rueckert, D.: [Exploring Heritability of Functional Brain Networks with Inexact Graph Matching](https://arxiv.org/pdf/1703.10062.pdf). In: *IEEE International Symposium on Biomedical Imaging (ISBI)* (2017).
 
 <p align="center">
 <img src="http://www.doc.ic.ac.uk/~sk1712/correspondences_overview.png" alt="correspondences" width="500"/>
